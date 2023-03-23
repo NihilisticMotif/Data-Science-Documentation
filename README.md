@@ -19,12 +19,12 @@ I have learned and written documentation about mathematics, statistics, machine 
 2. Mathematics
 
 2.1 Calculus
-* 2.1 A: Definition_Theorem_and_Proof
-* 2.1 B: Example_Exercise_and_Application
+* 2.1 A: Theorem
+* 2.1 B: Exercise
   
 2.2 LinearAlgebra
-* 2.2 A: Definition_Theorem_and_Proof
-* 2.2 B: Example_Exercise_and_Application
+* 2.2 A: Theorem
+* 2.2 B: Example
   
 2.3 DescriptiveStatistics
   
@@ -33,16 +33,16 @@ I have learned and written documentation about mathematics, statistics, machine 
 3. MachineLearning_Algorithm
 
 3.1 LinearRegression
-* 3.1 A: AlgorithmFoundation
-* 3.1 B: AlgorithmImplementation_with_MLLibrary
+* 3.1 A: Algorithm
+* 3.1 B: Implementation
   
 3.2 LogisticRegression
-* 3.2 A: AlgorithmFoundation
-* 3.2 B: AlgorithmImplementation_with_MLLibrary
+* 3.2 A: Algorithm
+* 3.2 B: Implementation
   
 3.3 NeuralNetwork
-* 3.3 A: AlgorithmFoundation
-* 3.3 B: AlgorithmImplementation_with_MLLibrary
+* 3.3 A: Algorithm
+* 3.3 B: Implementation
 
 4. Project
 
