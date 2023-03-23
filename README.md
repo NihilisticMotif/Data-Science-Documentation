@@ -57,6 +57,8 @@ I have learned and written documentation about mathematics, statistics, machine 
 
 # Note
 
+I use Google Colab as an IDE for this documentation.
+
 The 1st folder (DataSet) contains data set and url link to its original source.
 
 To anyone who are new to data science and want to start a project in this field, I reccomment you to read my 4th folder (Project) because you will find various useful idea for defining your project's goal, understanding the practical application of this field and you won't need to spend your time on learning unnecessary thing. 
