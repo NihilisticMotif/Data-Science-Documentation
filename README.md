@@ -58,11 +58,12 @@ How to update Github, when the file is deleted?
 
 How to update Github, when the file is created?
 1. C: Create and edit file ‘A’
-2. C: execute 
+2. C: execute Python code
 
 `
 
 from google.colab import drive
+
 drive.mount('/content/drive')
 
 `
