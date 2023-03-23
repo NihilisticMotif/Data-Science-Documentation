@@ -24,9 +24,59 @@ I have learned and written documentation about mathematics, statistics, machine 
 
 4.2 ReverseEngineer_Alternative_to_ML_Project
 
-# Note
+# How to connect Google Colab with Github?
 
 I use Google Colab as an IDE for this documentation.
+
+Note
+* C = open Google Colab
+* G = open Github
+* Warning: Check if both files in C and G have the same path.
+
+How to copy the Google Drive folder into Github?
+1. Download the folder into the local computer
+2. Upload it into Github.
+
+How to update Github, when the file is edited?
+1. C: Edit ‘A’ file
+2. C: Copy filename ‘A’ in Google Drive
+3. G: [T] 
+4. G: Paste filename ‘A’
+5. G: Copy path name of the file ‘A’ # have only one Data-Science-Documentation
+6. G: Delete that file
+7. C: [File] => [Save a copy in GitHub]
+8. C: Repository: NihilisticMotif/Data-Science-Documentation
+9. C: File path: str(paste path name of the file ‘A’)+‘/’+ ‘A’
+10. C: [OK]
+
+How to update Github, when the file is deleted?
+1. C: Copy filename ‘A’ in Google Drive
+2. G: [T] 
+3. G: Paste filename ‘A’
+4. G: Delete that file
+5. C: Delete that file
+
+How to update Github, when the file is created?
+1. C: Create and edit file ‘A’
+2. C: execute 
+
+`
+
+from google.colab import drive
+
+drive.mount('/content/drive')
+
+`
+
+3. C: Click folder symbol on the left side. This symbol will indicate the folder structure of the project. 
+4. C: Copy path name from the left side of the screen of the file ‘A’ 
+5. C: [File] => [Save a copy in GitHub]
+6. C: Repository: NihilisticMotif/Data-Science-Documentation
+7. C: File path: str(paste path name of the file ‘A’)+‘/’+ ‘A’
+8. C: [OK]
+
+
+# Learning Advice for reading this documentation.
 
 The 1st folder (DataSet) contains data set.
 
