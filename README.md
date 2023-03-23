@@ -73,7 +73,9 @@ I have learned and written documentation about mathematics, statistics, machine 
 
 The 1st folder (DataSet) contains data set and url link to its original source.
 
-To anyone who are new to data science and want to start a project in this field, I reccomment you to read my 4th folder (Project) because you will find various useful idea for defining your project's goal, understanding the practical application of this field and you won't need to spend your time on learning unnecessary thing. The 4th folder is about learning and implementing (reverse engineering) other people's data science project from Kaggle and Github with basic Python library such as Numpy, Pandas, Matplotlib and Math in order to understand how to do data science project.
+To anyone who are new to data science and want to start a project in this field, I reccomment you to read my 4th folder (Project) because you will find various useful idea for defining your project's goal, understanding the practical application of this field and you won't need to spend your time on learning unnecessary thing. 
+* The 4.1th sub folder (ReverseEngineer_DataScience_Project) is about learning and implementing (reverse engineering) other people's data science project from Kaggle and Github with basic Python library such as Numpy, Pandas, Matplotlib and Math in order to understand how to do data science project. The 
+* 4.2th sub folder (ReverseEngineer_Alternative_to_ML_Project) is about learning and implementing (reverse engineering) other people's non-machine learning based project.
 
 For anyone who want to learn mathematics as a hobby and/or want a deeper understanding of data science, reading 2nd (Mathematics) and 3rd (MachineLearning_Algorithm) might be useful for you.
 
