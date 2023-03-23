@@ -67,6 +67,6 @@ To anyone who are new to data science and want to start a project in this field,
 
 For anyone who want to learn mathematics as a hobby and/or want a deeper understanding of data science, reading 2nd (Mathematics) and 3rd (MachineLearning_Algorithm) might be useful for you.
 
-Some files inside this Repository are not finished and will be updated later. If there are something wrong and/or you have any recommendation opinion about this lecture, you can contact me on my email (phuri.sott@gmail.com). For anyone who read my documentation, I hope that this documentation are beneficial for you.
+Some files inside this Repository are not finished and will be updated later. If there are something wrong and/or you have any recommended opinion about this lecture, you can contact me at my email (phuri.sott@gmail.com). For anyone who read my documentation, I hope that this documentation are beneficial for you.
 
 Thank you for reading my lecture.
