@@ -42,7 +42,7 @@ How to update Github, when the file is edited?
 2. C: Copy filename ‘A’ in Google Drive
 3. G: [T] 
 4. G: Paste filename ‘A’
-5. G: Copy path name of the file ‘A’ # have only one Data-Science-Documentation
+5. G: Copy path name of the file ‘A’ # the input have only one Data-Science-Documentation
 6. G: Delete that file
 7. C: [File] => [Save a copy in GitHub]
 8. C: Repository: NihilisticMotif/Data-Science-Documentation
@@ -63,7 +63,6 @@ How to update Github, when the file is created?
 `
 
 from google.colab import drive
-
 drive.mount('/content/drive')
 
 `
@@ -72,7 +71,7 @@ drive.mount('/content/drive')
 4. C: Copy path name from the left side of the screen of the file ‘A’ 
 5. C: [File] => [Save a copy in GitHub]
 6. C: Repository: NihilisticMotif/Data-Science-Documentation
-7. C: File path: str(paste path name of the file ‘A’)+‘/’+ ‘A’
+7. C: File path: str(paste path name of the file ‘A’)+‘/’+ ‘A’ # do not have something similar to '/content/drive/MyDrive/' as the input
 8. C: [OK]
 
 
