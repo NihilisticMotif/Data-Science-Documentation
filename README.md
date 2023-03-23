@@ -1,5 +1,3 @@
-# Data-Science-Documentation
-
 # Purpose of this Documentation.
 
 Nowaday, the world is full of data. Data is the evidence of almost any phenomena. However, in order to use data effectively, one must analyze the data. Data science is the field which aims to utilize data in order to create the most optimized decision. In addition, data science also has a almost every field.
