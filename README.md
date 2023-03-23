@@ -19,48 +19,34 @@ I have learned and written documentation about mathematics, statistics, machine 
 2. Mathematics
 
 2.1 Calculus
-
-  2.1 A: Definition_Theorem_and_Proof
-  
-  2.1 B: Example_Exercise_and_Application
+* 2.1 A: Definition_Theorem_and_Proof
+* 2.1 B: Example_Exercise_and_Application
   
 2.2 LinearAlgebra
-
-  2.2 A: Definition_Theorem_and_Proof
-  
-  2.2 B: Example_Exercise_and_Application
+* 2.2 A: Definition_Theorem_and_Proof
+* 2.2 B: Example_Exercise_and_Application
   
 2.3 DescriptiveStatistics
-
-  2.3 A: Definition_Theorem_and_Proof
-  
-  2.3 B: Example_Exercise_and_Application
+* 2.3 A: Definition_Theorem_and_Proof
+* 2.3 B: Example_Exercise_and_Application
   
 2.4 InferentialStatistics
-
-  2.4 A: Definition_Theorem_and_Proof
-  
-  2.4 B: Example_Exercise_and_Application
+* 2.4 A: Definition_Theorem_and_Proof
+* 2.4 B: Example_Exercise_and_Application
 
 3. MachineLearning_Algorithm
 
 3.1 LinearRegression
-
-  3.1 A: AlgorithmFoundation
-  
-  3.1 B: AlgorithmImplementation_with_MLLibrary
+* 3.1 A: AlgorithmFoundation
+* 3.1 B: AlgorithmImplementation_with_MLLibrary
   
 3.2 LogisticRegression
-
-  3.2 A: AlgorithmFoundation
-  
-  3.2 B: AlgorithmImplementation_with_MLLibrary
+* 3.2 A: AlgorithmFoundation
+* 3.2 B: AlgorithmImplementation_with_MLLibrary
   
 3.3 OtherCommon_MachineLearningTechnique_01
-
-  3.3 A: AlgorithmFoundation
-  
-  3.3 B: AlgorithmImplementation_with_MLLibrary
+* 3.3 A: AlgorithmFoundation
+* 3.3 B: AlgorithmImplementation_with_MLLibrary
   
 
 4. Project
