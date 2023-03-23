@@ -48,11 +48,6 @@ I have learned and written documentation about mathematics, statistics, machine 
 * 3.3 A: AlgorithmFoundation
 * 3.3 B: AlgorithmImplementation_with_MLLibrary
 
-3.4 OtherCommon_MachineLearningTechnique_01
-* 3.4 A: AlgorithmFoundation
-* 3.4 B: AlgorithmImplementation_with_MLLibrary
-  
-
 4. Project
 
 4.1 ReverseEngineer_DataScience_Project
