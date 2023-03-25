@@ -16,7 +16,7 @@ I have learned and written documentation about mathematics, statistics, machine 
 
 2. Mathematics
 
-3. MachineLearning_Algorithm
+3. Algorithm
 
 4. Project
 
@@ -84,7 +84,7 @@ To anyone who are new to data science and want to start a project in this field,
 * The 4.1th sub folder (ReverseEngineer_DataScience_Project) is about learning and implementing (reverse engineering) other people's data science project from Kaggle and Github with basic Python library such as Numpy, Pandas, Matplotlib and Math in order to understand how to do data science project. The 
 * 4.2th sub folder (ReverseEngineer_Alternative_to_ML_Project) is about learning and implementing (reverse engineering) other people's non-machine learning based project.
 
-For anyone who want to learn mathematics as a hobby and/or want a deeper understanding of data science, reading 2nd (Mathematics) and 3rd (MachineLearning_Algorithm) might be useful for you.
+For anyone who want to learn mathematics as a hobby and/or want a deeper understanding of data science, reading 2nd (Mathematics) and 3rd (Algorithm) might be useful for you.
 
 Some files inside this Repository are not finished and will be updated later. If there are something wrong and/or you have any recommended opinion about this lecture, you can contact me at my email (phuri.sott@gmail.com). For anyone who read my documentation, I hope that this documentation are beneficial for you.
 
