@@ -30,9 +30,9 @@ I have learned and written documentation about mathematics, statistics, machine 
 
 # Learning Advice for reading this documentation.
 
-To anyone who are new to data science and want to start a project in this field, I reccomment you to read my 5th folder (Project) because you will find various useful idea for defining your project's goal, understanding the practical application of this field and you won't need to spend your time on learning unnecessary thing. 
+For someone who are new to data science and want to start a project in this field, I reccomment you to read my 5th folder (Project) because you will find various useful idea for defining your project's goal, understanding the practical application of this field and you won't need to spend your time on learning unnecessary thing. 
 
-For anyone who want a deeper understanding of data science, reading 2nd (Mathematics), 3rd (ML_Algorithm) and 4th (ML_Technique) might be useful for you.
+For someone who want a deeper understanding of data science, reading 2nd (Mathematics), 3rd (ML_Algorithm) and 4th (ML_Technique) might be useful for you.
 
 Some files inside this Repository are not finished and will be updated later. If there are something wrong and/or you have any recommended opinion about this lecture, you can contact me at my email (phuri.sott@gmail.com). For anyone who read my documentation, I hope that this documentation are beneficial for you.
 
