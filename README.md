@@ -10,3 +10,5 @@ I have created a new repository for my data science lectures, which can be found
 The content of this repository primarily focuses on computer vision, image processing, and AI Art. 
 However, there are also some lectures that are not directly related to this field, such as Linear Regression, Normal Distribution etc. 
 I included them because I find them interesting, and it's often helpful to learn simpler versions of concepts before diving into more complex ones.
+
+Also, thanked ChatGPT for improving my English language writing.
