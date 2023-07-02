@@ -7,8 +7,6 @@ When it comes to learning new things, here's my advice:
 4. Continuously develop your initial projects into more general or specialized projects.
 
 I have created a new repository for my data science lectures, which can be found at this link: https://github.com/NihilisticMotif/EtCetera_at_an_Exhibition. 
-The content of this repository primarily focuses on computer vision, image processing, and AI Art. 
-However, there are also some lectures that are not directly related to this field, such as Linear Regression, Normal Distribution etc. 
-I included them because I find them interesting, and it's often helpful to learn simpler versions of concepts before diving into more complex ones.
+The content of this repository primarily focuses on common Machine Learning algorithms and other common statstical techniques, e.g. Linear Regression, Probability Distribution, SVD etc.
 
 Also, thanked ChatGPT for improving my English language writing.
